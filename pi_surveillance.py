@@ -1,6 +1,11 @@
 '''
 Reference
 http://www.pyimagesearch.com/2015/05/25/basic-motion-detection-and-tracking-with-python-and-opencv/
+Video Explanation:
+https://www.youtube.com/watch?v=nP6yerqf6eY&t=2s
+Demonstration:
+https://www.youtube.com/watch?v=0FB6aISosRY
+https://www.youtube.com/watch?v=b89a_z7z5PQ
 '''
 
 # Import all necessary libraries
